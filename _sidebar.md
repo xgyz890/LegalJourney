@@ -1,3 +1,3 @@
 - [Preface](preface.md)
 - Articles
-    * [title 1](art001.md)
+    * [Structure of A Contract](StructureContract.md)
