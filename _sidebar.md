@@ -2,3 +2,4 @@
 - Articles
     * [Structure of A Contract](StructureContract.md)
     * [Books for Lawyer Skills](LSkills.md)
+    * [Case Brief Learning](CaseBrief.md)
